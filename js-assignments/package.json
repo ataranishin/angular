@@ -9,6 +9,6 @@
   "author": "aorgish",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^2.3.4"
+    "mocha": "^10.2.0"
   }
 }
